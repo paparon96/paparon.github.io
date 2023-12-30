@@ -14,7 +14,9 @@ Projects
 ======
 
 [Forecasting carbon emission allowance prices using news articles and NLP methods](https://ets-news-tracker.streamlit.app/)
+
 [Energy efficiency insights for households](https://energy-efficiency-peer-report.streamlit.app/)
+
 Data-driven solution to optimize land selection for solar parks
 
 A data-driven personal website
